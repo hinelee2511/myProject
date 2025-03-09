@@ -1,2 +1,2 @@
-# myProject
+# CAPTCHA demo
 captcha project
